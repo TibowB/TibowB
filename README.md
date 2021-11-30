@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Thibault Bruggeman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TibowB&show_icons=true)
+
 <!--
 **TibowB/TibowB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
